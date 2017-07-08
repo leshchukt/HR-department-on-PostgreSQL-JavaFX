@@ -2,7 +2,7 @@
 It's a database of "Movie Store", part - HR department. Interface realised on JavaFX (ukrainian language).
 
 There is two roles - manager and cashier(with limited rights). 
-I will attach the diagram of gatabase with all tables. In this project only one part (HR) realised.
+I will attach the diagram of database with all tables. In this project only one part (HR) realised.
 
 When you launch the program, there will be login window, so enter login 'manager' with password 'manager' to see all possibilities.
 We have 3 menu: Schedule, Guide positions and Staff. So we can:
